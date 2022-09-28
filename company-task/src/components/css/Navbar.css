@@ -1,0 +1,19 @@
+
+    .container{
+        display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .logo{
+    height: auto;
+    }
+    .login{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    ul li:hover a{
+    font-weight: bold;
+    color: black;
+    }

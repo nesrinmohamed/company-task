@@ -1,0 +1,9 @@
+.signup-form{
+display: flex;
+flex-direction: column;
+width: 100%;
+
+}
+.signup-form input{
+width: 100%;
+}
